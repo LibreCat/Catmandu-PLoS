@@ -2,7 +2,7 @@ package Catmandu::PLoS;
 
 =head1 NAME
 
-Catmandu::PLoS - Catmandu modules for working with PLoS data
+Catmandu::PLoS - Catmandu module for working with PLoS data
 
 =head1 VERSION
 
